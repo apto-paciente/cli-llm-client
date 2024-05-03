@@ -1,0 +1,28 @@
+Historial médico general:
+
+    1. ¿Tiene antecedentes familiares de enfermedades cardiovasculares? (muerte súbita, infartos, arritmias, hipertensión, dislipidemias, es decir colesterol alto)
+    2. ¿Padece de alguna enfermedad crónica como diabetes, hipertensión o colesterol alto?
+    3. ¿Ha tenido alguna cirugía previa o procedimientos médicos relevantes?
+
+Síntomas actuales:
+
+    4. ¿Qué síntomas está experimentando actualmente? (dolor en el pecho, falta de aire, palpitaciones, mareos, etc.)
+    5. ¿Cuándo comenzaron estos síntomas y con qué frecuencia ocurren?
+
+Estilo de vida y factores de riesgo:
+
+    6. ¿Fuma o fumó en el pasado?
+    7. ¿Cuál es su nivel de actividad física habitual? y ¿qué hace?
+    8. ¿Cómo es su dieta habitualmente? ¿Consume alimentos altos en grasas, sal o azúcar? (Si es gordo influye por el colesterol)
+    9. ¿Consume alcohol regularmente? En caso afirmativo, ¿cuánto y con qué frecuencia?
+
+Historial de salud cardiovascular:
+
+    10. ¿Tuvo alguna enfermedad cardíaca previa, como un ataque al corazón, angina de pecho o arritmias?
+    11. ¿Tiene hipertensión arterial?
+    12. ¿Experimentó episodios de insuficiencia cardíaca o edema en las piernas?
+
+Historial de medicamentos y alergias:
+
+    13. ¿Está tomando algún medicamento actualmente? En caso afirmativo, ¿cuáles?
+    14. ¿Tiene alergias conocidas a algún medicamento o sustancia?
